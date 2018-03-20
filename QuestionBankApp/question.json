@@ -2,57 +2,199 @@
     {
         "title": "单选题",
         "desc": [
-            {
-                "text": "闷热 ",
-                "bold": true,
-                "color": "black"
-            },
-            {
-                "text": "的"
-            },
-            {
-                "text": " 闷 ",
-                "bold": true,
-                "color": "red"
-            },
-            {
-                "text": "字的正确发音是："
-            }
+            { "text": "闷热 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 闷 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
         ],
-        "options": [
-            "mēn",
-            "mèn",
-            "mēng",
-            "mèng"
-        ],
+        "options": [ "mēn", "mèn", "mēng", "mèng" ],
         "index": 0
     },
     {
         "title": "单选题",
         "desc": [
-            {
-                "text": "闷雷 ",
-                "bold": true,
-                "color": "black"
-            },
-            {
-                "text": "的"
-            },
-            {
-                "text": " 闷 ",
-                "bold": true,
-                "color": "red"
-            },
-            {
-                "text": "字的正确发音是："
-            }
+            { "text": "闷雷 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 闷 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
         ],
-        "options": [
-            "mēn",
-            "mèn",
-            "mēng",
-            "mèng"
+        "options": [ "mēn", "mèn", "mēng", "mèng" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "钉子 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 钉 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
         ],
+        "options": [ "dīng", "dìng", "ding", "dēng" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "钉扣子 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 钉 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "dīng", "dìng", "ding", "dēng" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "看守 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 看 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "kān", "kàn", "hān", "kan" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "看见 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 看 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "kān", "kàn", "hān", "kan" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "称心如意 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 称 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "chèn", "chèng", "chēn", "chēng" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "称呼 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 称 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "chèn", "chèng", "chēn", "chēng" ],
+        "index": 3
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "一把 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 把 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "bǎ", "bà", "ba", "bā" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "刀把儿 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 把 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "bǎ", "bà", "ba", "bā" ],
+        "index": 2
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "干粮 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 干 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "ɡān", "ɡàn", "gan", "gāng" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "树干 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 干 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "ɡān", "ɡàn", "gan", "gāng" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "划船 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 划 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "huá", "huà", "huā", "hua" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "计划 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 划 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "huá", "huà", "huā", "hua" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "音乐 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 乐 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "yuè", "yuē", "lè", "lē" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "快乐 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 乐 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "yuè", "yuē", "lè", "lē" ],
+        "index": 2
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "数不清 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 数 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "shǔ", "shù", "shuō", "shū" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "数学 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 数 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "shǔ", "shù", "shuō", "shū" ],
         "index": 1
     }
 ]
