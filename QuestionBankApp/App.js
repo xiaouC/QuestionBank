@@ -51,7 +51,7 @@ export default class App extends Component {
 
     this.state = {
       title: '',
-      desc: '',
+      desc: [],
       options: [],
       right_index: 0,
       counter: 0,
@@ -86,6 +86,25 @@ export default class App extends Component {
       can_next_question: false,
       show_answer_flag: false,
     });
+  }
+
+  render_title_text() {
+    return (
+      <View style={styles.title_view}>
+        <Text style={styles.title_text}>{this.state.counter + '、' + this.state.title + '：'}</Text>
+
+        {this.state.desc.map((item, index) => {
+          var dynamic_text = {color: item.color !== undefined ? item.color : 'black', };
+          if (item.bold !== undefined) {
+            dynamic_text['fontWeight'] = 'bold';
+          }
+
+          return (
+            <Text key={index} style={[styles.desc_text, dynamic_text]}>{item.text}</Text>
+          );
+        })}
+      </View>
+    );
   }
 
   render_radio_button_content(item, index) {
@@ -128,9 +147,7 @@ export default class App extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <View style={styles.title_view}>
-          <Text style={styles.title_text}>{this.state.counter + '、' + this.state.title + '：' + this.state.desc}</Text>
-        </View>
+        {this.render_title_text()}
 
         <View style={styles.radio_group_container}>
           <RadioGroup
@@ -172,7 +189,7 @@ export default class App extends Component {
             </View>
           </TouchableOpacity>
 
-          <View style={{width: convert_size(50)}}/>
+          <View style={{width: convert_size(100)}}/>
 
           {this.render_next_button()}
         </View>
@@ -192,10 +209,11 @@ const styles = StyleSheet.create({
   },
 
   title_view: {
+    flexDirection: 'row',
     width: convert_size(750),
     height: convert_size(100),
     justifyContent: 'center',
-    alignItems: 'flex-start',
+    alignItems: 'center',
   },
 
   title_text: {
@@ -203,6 +221,11 @@ const styles = StyleSheet.create({
     color: 'black',
     textAlign: 'center',
     marginLeft: convert_size(50),
+  },
+
+  desc_text: {
+    fontSize: convert_size(30),
+    textAlign: 'center',
   },
 
   radio_group_container: {

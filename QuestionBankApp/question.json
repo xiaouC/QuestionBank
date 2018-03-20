@@ -1,25 +1,59 @@
 [
     {
         "title": "单选题",
-        "desc": "闷热的闷字的正确发音是：",
+        "desc": [
+            {
+                "text": "闷热 ",
+                "bold": true,
+                "color": "black"
+            },
+            {
+                "text": "的"
+            },
+            {
+                "text": " 闷 ",
+                "bold": true,
+                "color": "red"
+            },
+            {
+                "text": "字的正确发音是："
+            }
+        ],
         "options": [
             "mēn",
             "mèn",
             "mēng",
-            "mèng",
+            "mèng"
         ],
-        "index": 0,
+        "index": 0
     },
     {
         "title": "单选题",
-        "desc": "闷雷的闷字的正确发音是：",
+        "desc": [
+            {
+                "text": "闷雷 ",
+                "bold": true,
+                "color": "black"
+            },
+            {
+                "text": "的"
+            },
+            {
+                "text": " 闷 ",
+                "bold": true,
+                "color": "red"
+            },
+            {
+                "text": "字的正确发音是："
+            }
+        ],
         "options": [
             "mēn",
             "mèn",
             "mēng",
-            "mèng",
+            "mèng"
         ],
-        "index": 1,
-    },
+        "index": 1
+    }
 ]
 
