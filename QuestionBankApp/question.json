@@ -196,6 +196,1272 @@
         ],
         "options": [ "shǔ", "shù", "shuō", "shū" ],
         "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "缝补 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 缝 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "fénɡ", "fènɡ", "fén", "fèn" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "缝隙 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 缝 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "fénɡ", "fènɡ", "fén", "fèn" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "似乎 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 似 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "sì", "shì", "sī", "shī" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "似的 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 似 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "sì", "shì", "sī", "shī" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "大佛 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 佛 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "fó", "fú", "fǒ", "hū" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "仿佛 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 佛 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "fó", "fú", "fǒ", "hū" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "应该 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 应 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "yīnɡ", "yìnɡ", "yīn", "yìn" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "答应 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 应 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "yīnɡ", "yìnɡ", "yīn", "yìn" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "兴奋 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 兴 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "xīnɡ", "xìnɡ", "xīn", "xìn" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "高兴 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 兴 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "xīnɡ", "xìnɡ", "xīn", "xìn" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "模糊 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 模 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "mó", "mú", "móu", "hú" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "模样 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 模 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "mó", "mú", "móu", "hú" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "重新 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 重 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "chónɡ", "zhònɡ", "cónɡ", "zònɡ" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "重要 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 重 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "chónɡ", "zhònɡ", "cónɡ", "zònɡ" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "天空 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 空 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "kōnɡ", "kònɡ", "hōnɡ", "hònɡ" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "空地 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 空 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "kōnɡ", "kònɡ", "hōnɡ", "hònɡ" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "铺床 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 铺 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "pū", "pù", "bū", "bù" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "当铺 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 铺 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "pū", "pù", "bū", "bù" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "塞车 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 塞 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "sāi", "sài", "sè", "shè" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "塞外 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 塞 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "sāi", "sài", "sè", "shè" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "堵塞 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 塞 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "sāi", "sài", "sè", "shè" ],
+        "index": 2
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "着地 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 着 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "zháo", "zhe", "zhuó", "záo" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "走着 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 着 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "zháo", "zhe", "zhuó", "záo" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "着想 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 着 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "zháo", "zhe", "zhuó", "záo" ],
+        "index": 2
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "折断 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 折 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "zhé", "zhē", "shé", "shē" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "折腾 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 折 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "zhé", "zhē", "shé", "shē" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "折本 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 折 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "zhé", "zhē", "shé", "shē" ],
+        "index": 2
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "号叫 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 号 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "háo", "hào", "hāo", "hao" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "号召 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 号 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "háo", "hào", "hāo", "hao" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "朝下 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 朝 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "cháo", "zhāo", "zāo", "cáo" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "朝阳 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 朝 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "cháo", "zhāo", "zāo", "cáo" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "曲折 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 曲 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "qū", "qǔ", "cǖ", "cǚ" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "歌曲 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 曲 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "qū", "qǔ", "cǖ", "cǚ" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "脏话 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 脏 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "zānɡ", "zànɡ", "zhānɡ", "zhànɡ" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "肝脏 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 脏 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "zānɡ", "zànɡ", "zhānɡ", "zhànɡ" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "和平 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 和 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "hé", "hè", "hē", "he" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "唱和 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 和 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "hé", "hè", "hē", "he" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "处理 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 处 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "chǔ", "chù", "cǔ", "cù" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "好处 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 处 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "chǔ", "chù", "cǔ", "cù" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "觉得 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 觉 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "jué", "jiào", "jiǎo", "zào" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "睡觉 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 觉 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "jué", "jiào", "jiǎo", "zào" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "扇动 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 扇 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "shān", "shàn", "sān", "sàn" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "风扇 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 扇 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "shān", "shàn", "sān", "sàn" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "的确 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 的 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "dí", "dì", "dī", "di" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "目的 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 的 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "dí", "dì", "dī", "di" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "角色 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 角 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "jué", "jiǎo", "zhǎo", "zǎo" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "角度 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 角 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "jué", "jiǎo", "zhǎo", "zǎo" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "当时 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 当 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "dānɡ", "dànɡ", "danɡ", "dān" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "上当 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 当 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "dānɡ", "dànɡ", "danɡ", "dān" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "凶恶 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 恶 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "è", "wù", "ē", "wū" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "可恶 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 恶 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "è", "wù", "ē", "wū" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "系鞋带 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 系 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "jì", "xì", "jī", "xī" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "关系 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 系 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "jì", "xì", "jī", "xī" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "卷起 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 卷 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "juǎn", "juàn", "zhuǎn", "zhuàn" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "试卷 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 卷 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "juǎn", "juàn", "zhuǎn", "zhuàn" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "几乎 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 几 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "jī", "jǐ", "jì", "ji" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "几个 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 几 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "jī", "jǐ", "jì", "ji" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "转身 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 转 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "zhuǎn", "zhuàn", "zuǎn", "zuàn" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "转动 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 转 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "zhuǎn", "zhuàn", "zuǎn", "zuàn" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "中间 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 间 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "jiān", "jiàn", "zān", "zàn" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "间隔 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 间 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "jiān", "jiàn", "zān", "zàn" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "饮水 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 饮 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "yǐn", "yìn", "yín", "yīn" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "饮马 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 饮 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "yǐn", "yìn", "yín", "yīn" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "发现 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 发 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "fā", "fà", "fá", "fǎ" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "头发 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 发 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "fā", "fà", "fá", "fǎ" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "中华 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 华 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "huá", "huà", "huǎ", "huā" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "华山 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 华 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "huá", "huà", "huǎ", "huā" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "没有 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 没 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "méi", "mò", "měi", "mō" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "沉没 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 没 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "méi", "mò", "měi", "mō" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "要求 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 要 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "yāo", "yào", "yao", "yōu" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "要领 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 要 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "yāo", "yào", "yao", "yōu" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "泊船 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 泊 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "bó", "pō", "bō", "pó" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "血泊 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 泊 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "bó", "pō", "bō", "pó" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "好人 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 好 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "hǎo", "hào", "hāo", "háo" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "爱好 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 好 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "hǎo", "hào", "hāo", "háo" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "剥花生 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 剥 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "bāo", "bō", "páo", "pō" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "剥削 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 剥 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "bāo", "bō", "páo", "pō" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "调节 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 调 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "tiáo", "diào", "tiǎo", "diāo" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "调动 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 调 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "tiáo", "diào", "tiǎo", "diāo" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "便宜 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 便 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "pián", "biàn", "biān", "pān" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "方便 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 便 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "pián", "biàn", "biān", "pān" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "散文 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 散 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "sǎn", "sàn", "sān", "shàn" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "分散 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 散 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "sǎn", "sàn", "sān", "shàn" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "还有 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 还 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "hái", "huán", "hài", "huàn" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "还书 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 还 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "hái", "huán", "hài", "huàn" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "为人 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 为 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "wéi", "wèi", "wēi", "wěi" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "因为 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 为 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "wéi", "wèi", "wēi", "wěi" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "拮据 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 据 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "jū", "jù", "jü", "jǔ" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "证据 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 据 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "jū", "jù", "jü", "jǔ" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "中间 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 中 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "zhōnɡ", "zhònɡ", "zōnɡ", "zònɡ" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "中奖 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 中 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "zhōnɡ", "zhònɡ", "zōnɡ", "zònɡ" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "削铅笔 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 削 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "xiāo", "xuē", "qiāo", "quē" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "剥削 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 削 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "xiāo", "xuē", "qiāo", "quē" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "困难 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 难 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "nán", "nàn", "lán", "làn" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "灾难 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 难 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "nán", "nàn", "lán", "làn" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "扎针 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 扎 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "zhā", "zhá", "zā", "zá" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "挣扎 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 扎 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "zhā", "zhá", "zā", "zá" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "圆圈 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 圈 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "quān", "juàn", "quàn", "quan" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "猪圈 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 圈 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "quān", "juàn", "quàn", "quan" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "呼吁 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 吁 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "yù", "xū", "yū", "xù" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "气喘吁吁 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 吁 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "yù", "xū", "yū", "xù" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "撒网 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 撒 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "sā", "sǎ", "shā", "shǎ" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "撒种 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 撒 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "sā", "sǎ", "shā", "shǎ" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "扫地 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 扫 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "sǎo", "sào", "shǎo", "shào" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "扫把 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 扫 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "sǎo", "sào", "shǎo", "shào" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "子弹 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 弹 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "dàn", "tán", "dān", "dán" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "弹琴 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 弹 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "dàn", "tán", "dān", "dán" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "悄悄 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 悄 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "qiāo", "qiǎo", "qiáo", "qiào" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "悄然无声 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 悄 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "qiāo", "qiǎo", "qiáo", "qiào" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "鸡冠花 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 冠 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "ɡuān", "ɡuàn", "ɡān", "ɡàn" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "冠军 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 冠 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "ɡuān", "ɡuàn", "ɡān", "ɡàn" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "种子 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 种 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "zhǒnɡ", "zhònɡ", "zǒnɡ", "zònɡ" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "种瓜 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 种 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "zhǒnɡ", "zhònɡ", "zǒnɡ", "zònɡ" ],
+        "index": 1
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "拧毛巾 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 拧 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "nínɡ", "nìnɡ", "nīnɡ", "nǐnɡ" ],
+        "index": 0
+    },
+    {
+        "title": "单选题",
+        "desc": [
+            { "text": "拧螺丝 ", "bold": true, "color": "black" },
+            { "text": "的" },
+            { "text": " 拧 ", "bold": true, "color": "red" },
+            { "text": "字的正确发音是：" }
+        ],
+        "options": [ "nínɡ", "nìnɡ", "nīnɡ", "nǐnɡ" ],
+        "index": 1
     }
+
 ]
 
